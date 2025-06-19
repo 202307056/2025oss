@@ -4,6 +4,6 @@
 // add function modify for test
 int add(int x, int y)
 {
-	printf("x[ %d ]ì™€ y[ %d ] ê°’ì„ ë”í•©ë‹ˆë‹¤.\n", x, y);
+	printf("x[ %d ]¿Í y[ %d ] °ªÀ» ´õÇÕ´Ï´Ù.\n", x, y);
 	return x + y;
 }

@@ -19,6 +19,7 @@
 5. dev/b, dev/c에서도 동일한 상황 발생, 동일한 방법으로 해결<br>
 6. 결과 화면 캡쳐를 중간중간 진행함, 실행 화면 캡쳐(한글 인코딩 오류 발생, 해결하지 못함)<br>
 7. readme.md 수정<br>
+8. 한글 인코딩 문제 해결
 
 
 ![스크린샷1](images/Screenshot%20(1).png)
@@ -38,3 +39,4 @@
 ![스크린샷1](images/Screenshot%20(15).png)
 ![스크린샷1](images/Screenshot%20(16).png)
 ![스크린샷1](images/Screenshot%20(17).png)
+![스크린샷1](images/Screenshot%20(18).png)

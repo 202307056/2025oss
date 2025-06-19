@@ -3,6 +3,6 @@
 
 int sub(int x, int y)
 {
-		printf("x[ %d ]ì—ì„œ y[ %d ] ê°’ì„ ëºë‹ˆë‹¤.\n", x, y);
+		printf("x[ %d ]¿¡¼­ y[ %d ] °ªÀ» »®´Ï´Ù.\n", x, y);
 		return x - y;
 }
